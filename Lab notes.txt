@@ -1,0 +1,8 @@
+have a random function random.seed("225087") to find all the routes 
+
+have a function for calculating the distance between two cities
+
+have a function called city_cost()
+
+
+
