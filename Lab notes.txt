@@ -5,4 +5,33 @@ have a function for calculating the distance between two cities
 have a function called city_cost()
 
 
+random.shuffle -- to shuffle-- input cities dictionary
+
+===============================================================
+
+ML Lab - 3 Oct
+
+Populate vocabulary - use set and store unique words
+
+create a dictionary for positive set with key-value pair as word-frequency.
+initially have the frequency as 0 for all words
+
+iterate through the files again, get all the words in each file and update 
+the count in dictionary on the go.
+
+Do the same for negative folder as well
+
+----
+Caculate the conditional probability of positive and negative classes using
+Bayesian algorithm
+
+
+
+
+
+
+
+
+
+
 
